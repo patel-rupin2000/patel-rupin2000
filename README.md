@@ -1,5 +1,6 @@
 ### Hi there 👋
  # <a href="https://www.linkedin.com/in/rupin-patel-b1243718b/">Rupin Rakesh Patel</a> :smiley:
+  # <a href="https://leetcode.com/patel_rupin_/">LeetCode Profile</a> :computer:
  
 <a href="https://www.linkedin.com/in/rupin-patel-b1243718b/">
   <img align="left" alt="Rupin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,6 +8,7 @@
 <a href="https://github.com/patel-rupin2000">
   <img align="left" alt="Rupin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 
 <br/>
 <br/>
