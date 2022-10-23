@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/rupin-patel-b1243718b/">
   <img align="left" alt="Rupin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<h3>Hacktober Fest</h3>
+[![@patelrupin's Holopin board](https://holopin.me/patelrupin)](https://holopin.io/@patelrupin)
+
 <a href="https://github.com/patel-rupin2000">
   <img align="left" alt="Rupin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
