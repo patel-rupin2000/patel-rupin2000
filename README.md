@@ -19,7 +19,7 @@
 
 
 
-Contributer at 100 days of LL code | Contributer at ISTE-VIT | Machine Learning | Deep Learning | React Native | Python | C++ | Competitive Programming | Computer Vision | Flask Django
+Contributer at 100 days of ML code | Contributer at ISTE-VIT | Machine Learning | Deep Learning | React Native | Python | C++ | Competitive Programming | Computer Vision | Flask Django
 
 ## About :sunglasses:
 B.tech final year Computer Science student. Currently working as a Research Intern at Samsung R&D. Passionate about Artificial Intelligence and open-source. Also, have some experience in React-Native app Development and Data Analysis.
