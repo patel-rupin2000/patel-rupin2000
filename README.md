@@ -22,16 +22,18 @@
 Contributer at 100 days of ML code | Contributer at ISTE-VIT | Machine Learning | Deep Learning | React Native | Python | C++ | Competitive Programming | Computer Vision | Flask Django
 
 ## About :sunglasses:
-B.tech final year Computer Science student. Currently working as a Research Intern at Samsung R&D. Passionate about Artificial Intelligence and open-source. Also, have some experience in React-Native app Development and Data Analysis.
+B.tech 2023 graduated from VIT Vellore, Pursued Computer Science. Former SDE Intern at Amazon Retail Pricing System, before that worked as a Research Intern at Samsung R&D. Passionate about Software Developement, Artificial Intelligence and open-source. 
 
 ## Communities :dancers:
 - App developer and Core Member at [ISTE-VIT](https://istevit.in/)
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
+- ReactJS, Flask and Django.
 - Mobile application development using **React-Native**.
 - Python.
-- C++
+- Java.
+- SQL, AWS, Firebase and MongoDB.
 - Competitive Programming.
 - Machine Learning
 - Deep Learning
