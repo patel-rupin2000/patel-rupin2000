@@ -19,7 +19,7 @@
 
 
 
-Contributer at 100 days of ML code | Contributer at ISTE-VIT | Machine Learning | Deep Learning | React Native | Python | C++ | Competitive Programming | Computer Vision | Flask Django
+Contributer at 100 days of ML code | Contributer at ISTE-VIT | Deep Learning | React | Python | Java | Competitive Programming | Computer Vision | Flask | Django
 
 ## About :sunglasses:
 Graduated from VIT Vellore, Pursued B.Tech in Computer Science. Former SDE Intern at Amazon Retail Pricing System, before that worked as a Research Intern at Samsung R&D. Passionate about Software Developement, Artificial Intelligence and open-source. Motivated to learn and develop skills in Software Engineering that offer competitive environment and gain exposure to upcoming technologies. Well-versed in software development methodologies, object-oriented design, functional programming paradigms.
