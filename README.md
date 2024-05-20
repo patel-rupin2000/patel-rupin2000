@@ -55,7 +55,7 @@ Graduated from VIT Vellore, Pursued B.Tech in Computer Science. Former SDE Inter
 
 
 <a href="https://github.com/patel-rupin2000">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-rupin2000&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-rupin2000&theme=radical&hide=glsl" />
 </a>
 
 
